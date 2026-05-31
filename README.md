@@ -93,4 +93,10 @@ Abre un Pull Request describiendo tus mejoras.
 
 ---
 
-Proyecto de Programación – Sergio Orgaz Bravo
+<p align="center">
+  <img src="https://www.unex.es/conoce-la-uex/componentes/identidad-corporativa/archivos/LogoUEX.png/@@images/image" alt="Universidad de Extremadura" height="50"/>
+  <br/><br/>
+  <strong>Estructura de Datos I (EDI)</strong> · Grado en Ingeniería Informática · Universidad de Extremadura
+  <br/>
+  Sergio Orgaz Bravo
+</p>
