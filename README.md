@@ -94,7 +94,7 @@ Abre un Pull Request describiendo tus mejoras.
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logotipo_oficial_de_la_UEx.jpg/220px-Logotipo_oficial_de_la_UEx.jpg" alt="Universidad de Extremadura" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/UNEX.png" alt="Universidad de Extremadura" height="80"/>
   <br/><br/>
   <strong>Estructura de Datos I (EDI)</strong> &nbsp;&middot;&nbsp; Grado en Ingeniería Informática &nbsp;&middot;&nbsp; Universidad de Extremadura
   <br/>
